@@ -39,6 +39,7 @@ body {
   -webkit-transition:color .5s;
   transition:color .5s;
   color:rgb(228, 140, 170);
+  cursor:pointer;
 }
 
 #genButton:active {
