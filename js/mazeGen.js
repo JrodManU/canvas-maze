@@ -1,0 +1,3 @@
+function generateMaze() {
+  alert("testing");
+}
